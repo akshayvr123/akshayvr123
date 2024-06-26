@@ -16,7 +16,7 @@ I'm a passionate software developer specializing in the MERN stack. I recently c
 
 ## 🛠️ Projects
 
-### [MERN Ecommerce Website (Ongoing)](https://github.com/akshayvr123/RStore)
+### [MERN Ecommerce Website ](https://github.com/akshayvr123/RStore)
 RStore is an ecommerce website to sell grocery products.
 
 **Main Features:**
